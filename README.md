@@ -36,7 +36,7 @@ Supported frameworks: 4.5 (sync and task async).
 
 ### 2. Create API client with configuration
 
-The `LinkedInApi` class is the entry point for all API calls. You must instantiate it with a configuration object. The minimum configuration is the API key and secret.  [Get a LinkedIn API key](https://www.linkedin.com/secure/developer).
+The `LinkedInApi` class is the entry point for all API calls. You must instantiate it with a configuration object. The minimum configuration is the API key and secret.  <a href="https://www.linkedin.com/secure/developer" target="_blank">Get a LinkedIn API key</a>.
 
 ````csharp
 // create a configuration object
